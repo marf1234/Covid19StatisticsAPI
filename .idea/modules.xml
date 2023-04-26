@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Covid19StatisticsAPI.iml" filepath="$PROJECT_DIR$/.idea/Covid19StatisticsAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Covid19Statistic-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Covid19Statistic-build.iml" />
     </modules>
   </component>
 </project>
